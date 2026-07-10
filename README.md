@@ -1,5 +1,11 @@
-# Cloud Finanças
+# Cloud Finanças                  
+![Tela de login](screenshots/login.png)
 
+![Dashboard](screenshots/dashboard.png)
+
+![Transações](screenshots/transacoes.png)
+
+![Categorias](screenshots/categorias.png)
 Sistema de controle financeiro pra pequenos negócios. Nasceu de uma pergunta simples: a maioria das ferramentas desse tipo mostra planilha bonita mas não conta pro lojista se o caixa dele está saudável ou não. Esse projeto tenta resolver isso — além do CRUD de receita/despesa, tem um indicador que calcula quanto da receita já foi consumido em despesa no período e avisa quando isso passa de um limite razoável.
 
 Full-stack: API em Node/Express, banco Postgres, frontend em React.
